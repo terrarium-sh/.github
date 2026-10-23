@@ -1,4 +1,4 @@
-# 🪴 Terrarium
+# <img src="favicon.svg" alt="" height="32"> Terrarium
 
 Tools for giving coding agents room to work—without giving them your whole machine.
 
